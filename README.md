@@ -16,3 +16,5 @@ To achieve this, we create subsets of a given dataset following these steps:
 * *Create Subsets:* * Generate subsets of the dataset based on clustering results.
 
 * *Save Subsets:* * Save the subsets as .pt files for further analysis.
+  
+* *Visualize retrieved images:* * Visualized the clustered images to confirm they are saved correctly.
