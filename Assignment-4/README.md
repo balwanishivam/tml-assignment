@@ -174,5 +174,3 @@ There are considerable differences in the highlighted regions by Grad-CAM and LI
 
 11. [Result Images for Task-3 (GradCAM)](https://github.com/balwanishivam/tml-assignment/tree/Assignment-4/Assignment-4/task-3/results)  
     Result images showcasing the Grad-CAM visualization technique applied in Task-3.
-
-Note: To generate this README from Report PDF we used ChatGPT.
