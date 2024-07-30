@@ -1,10 +1,4 @@
-Here's a `README.md` file based on the provided LaTeX report:
-
-```markdown
 # Assignment 4
-
-**Authors:** Shivam Balwani, Barno Kaharova  
-**Last Updated:** 30th July 2024
 
 ## Table of Contents
 - [Task 1: CLIP Dissect](#task-1-clip-dissect)
@@ -180,6 +174,5 @@ There are considerable differences in the highlighted regions by Grad-CAM and LI
 
 11. [Result Images for Task-3 (GradCAM)](https://github.com/balwanishivam/tml-assignment/tree/Assignment-4/Assignment-4/task-3/results)  
     Result images showcasing the Grad-CAM visualization technique applied in Task-3.
-```
 
 Note: To generate this README from Report PDF we used ChatGPT.
